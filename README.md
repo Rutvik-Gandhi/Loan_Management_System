@@ -36,7 +36,7 @@ The Loan Management software is a web-based application that helps manage and tr
 Please follow carefully the installation and use of this web framework of the Loan Management System for better utilisation of it. Do not skip any stage.
 
 ```bash
-1. git clone https://github.com/chandachewe10/loan-management-system.git
+1. git clone https://github.com/Rutvik-Gandhi/Loan_Management_System.git
 2. composer update
 3. copy .env.example .env and set DB Credentials
 4. php artisan key:generate
@@ -59,16 +59,6 @@ Finally start the application as usual. Add `/admin` to your localhost url to ac
 ```bash
 Set up email notifications using [Mailtrap](https://mailtrap.io). Copy the mail credentials for your Laravel app from Mailtrap and update the corresponding settings in your `.env` file.
 ```
-
-
-
-![Super Admin Dashboard](public/samples/sample1.png)
-![Super Admin Dashboard](public/samples/sample2.png)
-![Super Admin Dashboard](public/samples/sample3.png)
-![Super Admin Dashboard](public/samples/sample4.png)
-
-
-
 
 
 ## Contributions
